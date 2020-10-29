@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-CV/static/css/main.1ca8625f.chunk.css",
+    "main.js": "/React-CV/static/js/main.65283cce.chunk.js",
+    "main.js.map": "/React-CV/static/js/main.65283cce.chunk.js.map",
+    "runtime-main.js": "/React-CV/static/js/runtime-main.c86d08e4.js",
+    "runtime-main.js.map": "/React-CV/static/js/runtime-main.c86d08e4.js.map",
+    "static/js/2.c66eabba.chunk.js": "/React-CV/static/js/2.c66eabba.chunk.js",
+    "static/js/2.c66eabba.chunk.js.map": "/React-CV/static/js/2.c66eabba.chunk.js.map",
+    "index.html": "/React-CV/index.html",
+    "static/css/main.1ca8625f.chunk.css.map": "/React-CV/static/css/main.1ca8625f.chunk.css.map",
+    "static/js/2.c66eabba.chunk.js.LICENSE.txt": "/React-CV/static/js/2.c66eabba.chunk.js.LICENSE.txt",
+    "static/media/leme (1).f566930d.png": "/React-CV/static/media/leme (1).f566930d.png",
+    "static/media/toronto.04839e4d.jpg": "/React-CV/static/media/toronto.04839e4d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c86d08e4.js",
+    "static/js/2.c66eabba.chunk.js",
+    "static/css/main.1ca8625f.chunk.css",
+    "static/js/main.65283cce.chunk.js"
+  ]
+}
